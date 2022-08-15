@@ -1,4 +1,4 @@
-<br /> Git Branch for game of Tic-Tac-Toe with Player X and O for 3 x 3 board (with human)
+<br />Game of Tic-Tac-Toe with Player X and O for 3 x 3 board (with human)
 <br /> How it works
 <br /> You will be presented with 3 x 3 board with empty spaces, 
 
